@@ -1,13 +1,13 @@
-# CallAny: build your speech interaction app with javascript
-- Realtime speech interaction
+# CallAny: Build Speech Interaction APP with Javascript
+- Realtime speech interaction for pc, mobile and pad via javascript
 - Acoustic Echo Cancelling(AEC) for most devices
 - Speech enhancement for any devices
 - Noise suppression for any devices
 - Instant interruption during AI talking
 - Automatic language detection before AI repling
-- Openai access for chat
-- Linkerai access for chat
-- Other chat engine access comming soon
+- Access Openai for chat
+- Access Linkerai for chat
+- Access of other chat engine comming soon
 
 ## Usage
 ```javascript
