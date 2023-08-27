@@ -5,6 +5,9 @@
 - Noise suppression for any devices
 - Instant interruption when AI is talking
 - Automatic language detection when AI repling
+- Openai access for chat
+- Linkerai access for chat
+- Other chat engine access comming soon
 
 ## Usage
 
