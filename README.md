@@ -1,4 +1,4 @@
-# CallAny: build your speech interaction app on any platform
+# CallAny: build your speech interaction app with javascript
 ## 
 
 ```javascript
