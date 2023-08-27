@@ -3,19 +3,16 @@
 - Acoustic Echo Cancelling(AEC) when AI is talking for most devices
 - Speech enhancement for any devices
 - Noise suppression for any devices
-- Instant interruption when AI is talking
-- Automatic language detection when AI repling
+- Instant interruption during AI talking
+- Automatic language detection before AI repling
 - Openai access for chat
 - Linkerai access for chat
 - Other chat engine access comming soon
 
 ## Usage
-
 ```javascript
 var dclog = document.getElementById('dc_history');// chat history
 function start(){
-    document.getElementById('start').style.display = 'none';  
-    document.getElementById('stop').style.display = 'inline-block';
     dclog.textContent=''; //clear history
     var chat_param = {  // openai config
         "model": "gpt-3.5-turbo",
@@ -33,11 +30,9 @@ function start(){
         'language':'zh-cn',
         'use_video':false,
     };
-    t_start(t_onopen = onopen,t_onclose = onclose,t_onmessage = onmessage, param_all = param_all); // start calling
+    t_start(t_onopen = onopen,t_onclose = onclose,t_onmessage = onmessage, param_all = param_all); 
 }
 function stop(){
-    document.getElementById('stop').style.display = 'none';
-    document.getElementById('start').style.display = 'inline';
     t_stop();
 }
 function onopen(){
@@ -54,7 +49,6 @@ function onmessage(txt){
 function scrollToBottom() {
     dclog.scrollTop = dclog.scrollHeight;
 }
-
 <script src="https://xxx.4387.top/lingxi.js"></script>
 ```
 
