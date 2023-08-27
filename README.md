@@ -1,4 +1,9 @@
 # CallAny: build your speech interaction app with javascript
+- Realtime speech interaction
+- Acoustic Echo Cancelling(AEC) when AI is talking
+- Speech enhancement 
+- Noise suppression 
+- Interrupt when AI is talking
 ## 
 
 ```javascript
