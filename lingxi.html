@@ -86,15 +86,16 @@
                 "temperature": 0.7
             };
             var key_linkerai = 'sk-6Be2PgJrlmVctpLNdxow0s9i4nSW1KMjG7UfAFhH8YZRX5vu';//Multiple separated by commas
-            var key_openai = '';  //Optional, multiple are separated by commas, it is used when key_openai is not empty, default chat engine:  key_linkerai
+            var key_openai = '';  //Optional, if not empty use openai else use linkerai for chat
             var param_all = {
                 'chat_param':chat_param,
-                'key_linkerai':key_linkerai, 
+                'key_linkerai':key_linkerai, //灵犀key
                 'key_openai': key_openai, 
                 'speaker_id':0, 
+                'language':'zh-cn',
+                'use_video':false,
             };
-            var test = JSON.stringify(param_all);
-            t_start(t_onopen = onopen,t_onclose = onclose,t_onmessage = onmessage, param_all = test); // start calling
+            t_start(t_onopen = onopen,t_onclose = onclose,t_onmessage = onmessage, param_all = param_all); // start calling
         }
         function stop(){
             document.getElementById('stop').style.display = 'none';

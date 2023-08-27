@@ -92,9 +92,10 @@
                 'key_linkerai':key_linkerai, //灵犀key
                 'key_openai': key_openai, 
                 'speaker_id':0, 
+                'language':'zh-cn',
+                'use_video':false,
             };
-            var test = JSON.stringify(param_all);
-            t_start(t_onopen = onopen,t_onclose = onclose,t_onmessage = onmessage, param_all = test); // 开始
+            t_start(t_onopen = onopen,t_onclose = onclose,t_onmessage = onmessage, param_all = param_all); // 开始
         }
         function stop(){
             document.getElementById('stop').style.display = 'none';
