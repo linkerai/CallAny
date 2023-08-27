@@ -13,8 +13,7 @@
 
 [**中文简体**](https://github.com/linkerai/CallAny/blob/master/README_zh.md)
 | [**English**](https://github.com/linkerai/CallAny/blob/master/README.md)
-| [**视频教程(中文)**](https://github.com/linkerai/CallAny/blob/master/README.md)
-| [**Tutorial(Video)**](https://github.com/linkerai/CallAny/blob/master/README.md)
+| [**视频演示**](https://www.bilibili.com/video/BV1Mu4y1i7cp/)
 
 ## Usage
 ```javascript
