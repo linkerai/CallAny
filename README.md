@@ -1,10 +1,12 @@
 # CallAny: build your speech interaction app with javascript
 - Realtime speech interaction
-- Acoustic Echo Cancelling(AEC) when AI is talking
-- Speech enhancement 
-- Noise suppression 
-- Interrupt when AI is talking
-## 
+- Acoustic Echo Cancelling(AEC) when AI is talking for most devices
+- Speech enhancement for any devices
+- Noise suppression for any devices
+- Instant interruption when AI is talking
+- Automatic language detection when AI repling
+
+## Usage
 
 ```javascript
 var dclog = document.getElementById('dc_history');// chat history
