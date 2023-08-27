@@ -1,3 +1,4 @@
+
 # CallAny: Build Speech Interaction APP with Javascript
 - Realtime speech interaction for pc, mobile and pad via javascript
 - Acoustic Echo Cancelling(AEC) for most devices
@@ -8,6 +9,10 @@
 - Access Openai for chat
 - Access Linkerai for chat
 - Access of other chat engine comming soon
+[**中文简体**](https://github.com/linkerai/CallAny/blob/master/README_zh.md)
+| [**English**](https://github.com/linkerai/CallAny/blob/master/README.md)
+| [**视频教程(中文)**](https://github.com/linkerai/CallAny/blob/master/README.md)
+| [**Tutorial(Video)**](https://github.com/linkerai/CallAny/blob/master/README.md)
 
 ## Usage
 ```javascript

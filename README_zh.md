@@ -7,7 +7,10 @@
 - 自动检测回复语言
 - 聊天功能接入openai、Linkerai等大模型
 - 其他大模型接入 comming soon
-
+[**中文简体**](https://github.com/linkerai/CallAny/blob/master/README_zh.md)
+| [**English**](https://github.com/linkerai/CallAny/blob/master/README.md)
+| [**视频教程(中文)**](https://github.com/linkerai/CallAny/blob/master/README.md)
+| [**Tutorial(Video)**](https://github.com/linkerai/CallAny/blob/master/README.md)
 ## Usage
 ```javascript
 var dclog = document.getElementById('dc_history');// 聊天记录
