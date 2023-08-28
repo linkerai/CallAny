@@ -13,6 +13,7 @@
 [**English**](https://github.com/linkerai/CallAny/blob/master/README.md)
 | [**视频演示**](https://www.bilibili.com/video/BV1Mu4y1i7cp/)
 | [**演示网站**](https://xxx.4387.top)
+| [**获取KEY**](https://cqupt.4387.top)
 ## Usage
 ```javascript
 var dclog = document.getElementById('dc_history');// 聊天记录
