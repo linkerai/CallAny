@@ -6,8 +6,8 @@
 - Noise suppression for any devices
 - Instant interruption during AI talking
 - Automatic language detection before AI repling
-- Access Openai for chat
-- Access Linkerai for chat
+- Access Openai and Linkerai for chat
+- Support voice tracking, automatically track your own voice for the first conversation, and automatically block other people's voices
 - Access of other chat engine comming soon
 
 
