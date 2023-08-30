@@ -13,7 +13,7 @@
 
 [**中文简体**](https://github.com/linkerai/CallAny/blob/master/README_zh.md)
 | [**视频演示**](https://www.bilibili.com/video/BV1Mu4y1i7cp/)
-| [**Demo site**](https://xxx.4387.top)
+| [**Demo site**](https://app.4387.top)
 | [**Get Key**](https://cqupt.4387.top)
 
 ## Usage
