@@ -11,7 +11,8 @@
 
 
 [**English**](https://github.com/linkerai/CallAny/blob/master/README.md)
-| [**视频演示**](https://www.bilibili.com/video/BV1Mu4y1i7cp/)
+| [**视频演示1**](https://www.bilibili.com/video/BV18j41127mY/)
+| [**视频演示2**](https://www.bilibili.com/video/BV1Mu4y1i7cp/)
 | [**演示网站**](https://app.4387.top)
 | [**获取KEY**](https://cqupt.4387.top)
 ## Usage
